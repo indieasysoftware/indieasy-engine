@@ -1,0 +1,19 @@
+{
+  "name": "indieasy-engine",
+  "version": "1.0.0",
+  "description": "The core engine for indieasy, which will be used in conjunction with indieasy-editors, and project-specific reactjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DGordonEFS/indieasy-engine.git"
+  },
+  "author": "Dale Donahue",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DGordonEFS/indieasy-engine/issues"
+  },
+  "homepage": "https://github.com/DGordonEFS/indieasy-engine#readme"
+}
